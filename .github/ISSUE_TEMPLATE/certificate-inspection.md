@@ -1,7 +1,7 @@
 ---
 name: Certificate inspection
 about: Query certificate authenticity.
-title: "【CI】"
+title: "【Certificate inspection】"
 labels: ''
 assignees: ''
 
@@ -10,10 +10,7 @@ assignees: ''
 # Certificate inspection
 
 ## Certificate ID
-[^_^]: START
-No:
-[^_^]: END
+No: N0000000
 ## Certificate Holders
-[^_^]: START
-Name:
+Name: ZhangSan
 [^_^]: END
