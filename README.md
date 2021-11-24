@@ -1,5 +1,5 @@
 # 证书自助查验系统
-如需查验证书与持有人是否匹配，可点击上方的`Issues`板块，选择`New issue`按钮来通过Issue进行证书查询，查询示例可参考：  
+如需查验证书与持有人是否匹配，可点击上方的[Issues](https://github.com/Awesome-DeepLearning/CertificateInspection/issues)板块，选择`New issue`按钮进行证书查询，查询示例可参考：  
 ```
 ## 证书编号 - Certificate ID
 No: N000HHJ001
