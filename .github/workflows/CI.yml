@@ -5,7 +5,7 @@ on:
     types: [opened, edited]
 
 jobs:
-  add-assigness:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: 安装依赖
