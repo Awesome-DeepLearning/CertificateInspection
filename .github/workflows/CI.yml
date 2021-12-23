@@ -13,7 +13,7 @@ jobs:
         
       - name: clone检验仓库
         run: |
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/GT-ZhangAcer/CertificateInspectionBackend
+          git clone https://x-access-token:${{ secrets.GTCI }}@github.com/GT-ZhangAcer/CertificateInspectionBackend
           
       - name: 验证持有人信息
         run: | 
